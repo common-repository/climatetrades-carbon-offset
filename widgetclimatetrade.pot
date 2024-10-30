@@ -1,0 +1,184 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: ClimateTrade's Carbon Offset\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-05-30 09:25+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.2; wp-6.0\n"
+"X-Domain: widgetclimatetrade"
+
+#: widgetclimatetrade.php:267
+msgid "% Cobro"
+msgstr ""
+
+#: widgetclimatetrade.php:258
+msgid "% Compensación"
+msgstr ""
+
+#: widgetclimatetrade.php:301
+msgid "Al compensar la huella de carbono ayudaras al planeta"
+msgstr ""
+
+#: widgetclimatetrade.php:248
+msgid "APIKey"
+msgstr ""
+
+#: widgetclimatetrade.php:285
+msgid "Añadir imagen"
+msgstr ""
+
+#: widgetclimatetrade.php:320
+msgid "Añadir Kg (Compensar los ___ Kg de mi huella de carbono)"
+msgstr ""
+
+#: widgetclimatetrade.php:324
+msgid "Añadir Kg y € (Compensar los ___ Kg de mi huella de carbono por ___ €)"
+msgstr ""
+
+#: widgetclimatetrade.php:316 includes/widget/widget_view.php:51
+msgid "Básico (¡Sí!, Quiero compensar mi huella)"
+msgstr ""
+
+#. Name of the plugin
+msgid "ClimateTrade's Carbon Offset"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"ClimateTrade’s easy to integrate widget allows your customers to offset the "
+"carbon footprint of their purchases in just a few clicks"
+msgstr ""
+
+#. Author of the plugin
+msgid "Cloudappi"
+msgstr ""
+
+#: widgetclimatetrade.php:338
+msgid "Color de fondo"
+msgstr ""
+
+#: widgetclimatetrade.php:334
+msgid "Color principal"
+msgstr ""
+
+#: widgetclimatetrade.php:296
+msgid "Compensa tu huella de carbono"
+msgstr ""
+
+#: widgetclimatetrade.php:39
+msgid "Compensación de huella de carbono"
+msgstr ""
+
+#: includes/widget/widget_view.php:52
+#, php-format
+msgid "Compensar los %s Kg de mi huella de carbono "
+msgstr ""
+
+#: includes/widget/widget_view.php:53
+#, php-format
+msgid "Compensar los %s Kg de mi huella de carbono por %s€ "
+msgstr ""
+
+#: admin/includes/configurations.php:27
+msgid "Configuración General"
+msgstr ""
+
+#: widgetclimatetrade.php:300
+msgid "Descripción"
+msgstr ""
+
+#: admin/includes/configurations.php:13
+msgid ""
+"Este plugin necesita tener WooCommerce instalado y activado. Por favor, "
+"instala o activa WooCommerce y vuelve a esta página."
+msgstr ""
+
+#: admin/includes/configurations.php:48
+msgid "Guardar cambios"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://climatetrade.com"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://developers.climatetrade.com/es/products/widget/"
+msgstr ""
+
+#: widgetclimatetrade.php:279
+msgid "Imagen"
+msgstr ""
+
+#: admin/includes/configurations.php:12
+msgid "Información"
+msgstr ""
+
+#: includes/widget/widget_view.php:36
+msgid "Instrucciones del proceso"
+msgstr ""
+
+#: widgetclimatetrade.php:284
+msgid "No hay ninguna imagen seleccionada"
+msgstr ""
+
+#: widgetclimatetrade.php:354
+msgid "No mostrar Powered By"
+msgstr ""
+
+#: widgetclimatetrade.php:54
+msgid "Por favor instala y activa WooCommerce"
+msgstr ""
+
+#: widgetclimatetrade.php:346 includes/widget/widget_view.php:96
+#: includes/widget/widget_view.php:105
+msgid "Powered by"
+msgstr ""
+
+#: admin/includes/configurations.php:45
+msgid "Publicar"
+msgstr ""
+
+#: widgetclimatetrade.php:54
+msgid "Revisar la dependencia del plugin"
+msgstr ""
+
+#: includes/widget/widget_view.php:39
+msgid "Se te cobrará un porcentaje adicional para compensar."
+msgstr ""
+
+#: widgetclimatetrade.php:349
+msgid "Selecciona si mostrar Powered by"
+msgstr ""
+
+#: includes/widget/widget_view.php:38
+msgid "Seleccionar si quiere compensar la huella de carbono."
+msgstr ""
+
+#: widgetclimatetrade.php:311
+msgid "Seleciona el CTA"
+msgstr ""
+
+#: includes/widget/widget_view.php:94 includes/widget/widget_view.php:103
+msgid "T&Cs aplicables"
+msgstr ""
+
+#: includes/widget/widget_view.php:40
+msgid "Te llegará un correo con la certificación de la compensación."
+msgstr ""
+
+#: widgetclimatetrade.php:295
+msgid "Título"
+msgstr ""
+
+#: widgetclimatetrade.php:250
+msgid "¿Cómo obtener el APIKey?"
+msgstr ""

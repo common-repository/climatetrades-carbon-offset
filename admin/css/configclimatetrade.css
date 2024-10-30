@@ -1,0 +1,46 @@
+/* Paddings */
+.p-0{ padding: 0; }
+
+/* Layout */
+.overlay{
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.05);
+  z-index: 10;
+}
+
+  .disable__plugin--message{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    width: 100%;
+    /* height: 100%; */
+    margin-top: 100px;
+  }
+    .alert{
+      width: 80%;
+      box-sizing: border-box;
+      padding: 15px;
+      background: #0083BF;
+      border-radius: 5px;
+      box-shadow: 0 0 5px rgba(0, 0, 0, .2);
+      color: #F3F3F3;
+    }
+.config__container{ 
+  position: relative;
+  font-family: 'Roboto', sans-serif; 
+  letter-spacing: 0.12px;
+  background: white;
+}
+  .wrapper__configuration{
+    width: 60%;
+    padding: 30px;
+  }
+
+  .wrapper__publish{
+    width: 30%;
+    box-shadow: 0px 10px 38px rgba(0, 0, 0, 0.05);
+    padding: 30px;
+    height: 120px;
+  }

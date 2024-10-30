@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;500;700&family=Source+Sans+Pro:wght@300;400;600&display=swap');
+
+/* Generals */
+.fs-8{ font-size: 8px; }
+.fs-10{ font-size: 10px; }
+.fs-12{ font-size: 12px; }
+.fs-14{ font-size: 14px; }
+.fs-16{ font-size: 16px; }
+.fs-18{ font-size: 18px; }
+.fs-20{ font-size: 20px; }
+.fs-22{ font-size: 22px; }
+
+/* Colors */
+.grey1{ color: #171725; }
+.grey2{ color: #44444F; }
+.grey3{ color: #696974; }
+.grey4{ color: #92929D; }
+.blue1{ color: #1978B2; }
+
+/* Font styles */
+.roboto--light{ font-family: 'Roboto', sans-serif; font-weight: 100; }
+.roboto--regular{ font-family: 'Roboto', sans-serif; font-weight: 300; }
+.roboto--bold{ font-family: 'Roboto', sans-serif; font-weight: 700; }
+.sourcesans--light{ font-family: 'Source Sans Pro', sans-serif; font-weight: 300; }
+.sourcesans--regular{ font-family: 'Source Sans Pro', sans-serif; font-weight: 400; }
+.sourcesans--bold{ font-family: 'Source Sans Pro', sans-serif; font-weight: 600; }
+
+/* Margins */
+.m-0{ margin: 0 !important; }
+.mt-5{ margin-top: 5px; }
+.mt-10{ margin-top: 10px; }
+.mt-15{ margin-top: 15px; }
+.mt-20{ margin-top: 20px; }
+.mt-25{ margin-top: 25px; }
+.mt-30{ margin-top: 30px; }
+.mr-5{ margin-right: 5px; }
+.mr-10{ margin-right: 10px; }
+.mr-15{ margin-right: 15px; }
+.mr-20{ margin-right: 20px; }
+.mr-25{ margin-right: 25px; }
+.mr-30{ margin-right: 30px; }
+.mr-35{ margin-right: 35px; }
+.mr-40{ margin-right: 40px; }
+.mb-5{ margin-bottom: 5px; }
+.mb-10{ margin-bottom: 10px; }
+.mb-15{ margin-bottom: 15px; }
+.mb-20{ margin-bottom: 20px; }
+.mb-25{ margin-bottom: 25px; }
+.mb-30{ margin-bottom: 30px; }
+.ml-5{ margin-left: 5px; }
+.ml-10{ margin-left: 10px; }
+.ml-15{ margin-left: 15px; }
+.ml-20{ margin-left: 20px; }
+.ml-25{ margin-left: 25px; }
+.ml-30{ margin-left: 30px; }
+
+/* flex */
+.d-flex{ display: flex !important; }
+.flex-column{ flex-direction: column; }
+.flex-wrap{ flex-wrap: wrap; }
+.justify-content-between{ justify-content: space-between !important; }
+.justify-content-end{ justify-content: flex-end !important; }
+.justify-content-center{ justify-content: center !important; }
+.align-items-center { align-items: center !important; }
+.mr-auto{ margin-right: auto !important; }
+
+/* Image */
+.img-responsive {
+  max-width: 100%;
+  height: auto;
+}
+
+/* Display */
+.d-none{ display: none; }
+.d-block{ display: block; }
